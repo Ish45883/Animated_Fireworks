@@ -15,7 +15,7 @@ An interactive animated fireworks display built using **JavaScript, HTML, and CS
 * **JavaScript** 
 * **CSS** 
 ## Preview
-![Fireworks animation](assets/animation.gif)
+![Fireworks animation](assets/completed-animation.gif)
 ##  Demo  
 To run locally:  
     1. Clone this repository:  
